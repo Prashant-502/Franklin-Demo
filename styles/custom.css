@@ -1,7 +1,9 @@
 @media (width >= 600px) {
   main .banner {
-    padding: 0px;
+    padding:82px 0 0;
+
   }
+
 }
 @media (width >= 900px) {
   .banner > div {
