@@ -4,6 +4,14 @@
   }
 }
 @media (width >= 900px) {
+  /* header */
+  header nav .nav-brand img {
+    width: 250px;
+  }
+  header nav{
+    max-width: 1170px;
+  }
+  /* header end */
   .banner > div {
     max-width: unset;
   }
