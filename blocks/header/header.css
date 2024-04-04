@@ -276,7 +276,9 @@ header nav .nav-sections ul > li > ul > li {
     max-width: 1170px;
   }
   /* header end */
-  
+  header .nav-wrapper{
+    padding: 15px 0;
+  }
 }
 
 /* tools */
