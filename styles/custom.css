@@ -1,5 +1,10 @@
 @media (width >= 600px) {
   main .section {
-    padding: 64px 0px;
+    padding: 0px;
+  }
+}
+@media (width >= 900px) {
+  .section > div {
+    max-width: unset;
   }
 }
