@@ -1,10 +1,10 @@
 @media (width >= 600px) {
-  main .section {
+  main .banner {
     padding: 0px;
   }
 }
 @media (width >= 900px) {
-  .section > div {
+  .banner > div {
     max-width: unset;
   }
 }
