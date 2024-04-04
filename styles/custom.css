@@ -13,8 +13,7 @@
     margin: 0;
   }
   .banner {
-    max-height: 640px;
+    max-height: 620px;
     overflow: hidden;
   }
-
 }
