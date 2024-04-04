@@ -272,6 +272,9 @@ header nav .nav-sections ul > li > ul > li {
   header nav .nav-brand img {
     width: 250px;
   }
+  header nav .nav-brand {
+    padding-top: 4px;
+  }
   header nav{
     max-width: 1170px;
   }
