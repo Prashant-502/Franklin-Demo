@@ -10,9 +10,9 @@
   .banner p {
     margin: 0;
   }
-  .banner img {
-    height: 640px;
-    width: 100%;
+  .banner {
+    max-height: 640px;
+    overflow: hidden;
   }
 
 }
