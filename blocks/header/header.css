@@ -225,7 +225,7 @@ header nav .nav-sections ul > li > ul > li {
 
   header nav .nav-sections ul {
     display: flex;
-    gap: 2em;
+    /* gap: 2em; */
     margin: 0;
     font-size: var(--body-font-size-xs);
   }
@@ -234,6 +234,7 @@ header nav .nav-sections ul > li > ul > li {
     flex: 0 1 auto;
     position: relative;
     font-weight: 700;
+    padding: 5px 20px;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul {
