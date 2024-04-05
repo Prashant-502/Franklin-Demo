@@ -71,9 +71,11 @@
 
 .carousel .carousel-slide-indicators {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     gap: 0.5rem;
+    margin-left: 95px;
 }
+
 
 .carousel .carousel-slide-indicator button {
     width: 1rem;
