@@ -181,8 +181,12 @@ main img {
 }
 
 .icon img {
-  height: 20px;
+  height: 18px;
   width: 100%;
+}
+header .icon-cart{
+  display: flex;
+  align-items: center;
 }
 
 /* sections */
