@@ -61,6 +61,10 @@
     width: var(--slide-content-width, auto);
 }
 
+.carousel .carousel-slide .carousel-slide-content {
+    background-color: transparent;
+}
+
 .carousel .carousel-slide-indicators {
     display: flex;
     justify-content: center;
