@@ -27,4 +27,8 @@
   .carousel .carousel-slide .carousel-slide-content {
     background: transparent;
   }
+  .section.cards-container{
+    max-width: 1170px;
+    margin: auto;
+  }
 }
