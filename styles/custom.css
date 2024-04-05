@@ -31,4 +31,8 @@
     max-width: 1170px;
     margin: auto;
   }
+  .section.cards-container .why-shop-with-us{
+    text-align: center;
+    font-family: serif;
+  }
 }
