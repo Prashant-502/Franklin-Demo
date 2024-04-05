@@ -240,6 +240,12 @@ header nav .nav-sections ul > li > ul > li {
   header nav .nav-sections .default-content-wrapper > ul > li:last-child {
     padding: 0;
   }
+  header nav .nav-sections .default-content-wrapper > ul > li:first-child {
+    color: #f7444e;
+  }
+  header nav .nav-sections .default-content-wrapper > ul > li:hover {
+    color: #f7444e;
+  }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul {
     display: none;
