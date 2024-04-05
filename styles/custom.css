@@ -5,7 +5,7 @@
   }
   .banner .carousel-wrapper{
     position: absolute;
-    top: 0;
+    top: 10;
     left: 100px;
   }
   .carousel .carousel-slide .carousel-slide-content h2{
