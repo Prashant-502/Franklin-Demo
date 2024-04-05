@@ -240,6 +240,9 @@ header nav .nav-sections ul > li > ul > li {
   header nav .nav-sections .default-content-wrapper > ul > li:last-child {
     padding: 0;
   }
+  header nav .nav-sections .default-content-wrapper > ul > li:nth-child(3) {
+    padding-left: 35px;
+  }
   header nav .nav-sections .default-content-wrapper > ul > li:first-child, header nav .nav-sections .default-content-wrapper > ul > li:hover {
     color: #f7444e;
   }
