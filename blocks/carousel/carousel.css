@@ -92,6 +92,7 @@
 .carousel .carousel-slide-indicator button:focus-visible {
     background-color:#f7444e;
     height: 1rem;
+    width: 1rem;
 }
 
 .carousel .carousel-slide-indicator span,
