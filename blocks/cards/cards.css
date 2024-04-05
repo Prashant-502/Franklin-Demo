@@ -37,3 +37,6 @@
 .cards .cards-card-body h5{
   font-size: 21px;
 }
+.cards .cards-card-body p{
+  font-size: 1 rem;
+}
