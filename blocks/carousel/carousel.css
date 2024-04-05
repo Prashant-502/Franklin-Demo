@@ -182,4 +182,7 @@
     .carousel .carousel-navigation-buttons{
         display: none;
     }
+    .carousel .carousel-slide .carousel-slide-content h2:first-child {
+        color: #f7444e;
+    }
 }
