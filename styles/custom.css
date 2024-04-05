@@ -6,6 +6,7 @@
   .banner .carousel-wrapper{
     position: absolute;
     top: 0;
+    left: 100px;
   }
   .carousel .carousel-slide .carousel-slide-content h2{
     font-size: 72px;
