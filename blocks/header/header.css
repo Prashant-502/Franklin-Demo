@@ -289,6 +289,12 @@ header nav .nav-sections ul > li > ul > li {
     padding: 0 15px;
     margin: auto;
   }
+  .navbar-nav li{
+    font-weight: 700;
+  }
+  header nav .nav-sections {
+    flex: unset;
+  }
 }
 
 /* tools */
