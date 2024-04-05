@@ -237,6 +237,9 @@ header nav .nav-sections ul > li > ul > li {
     font-weight: 700;
     padding: 5px 20px;
   }
+  header nav .nav-sections .default-content-wrapper > ul > li:last-child {
+    padding: 0;
+  }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul {
     display: none;
