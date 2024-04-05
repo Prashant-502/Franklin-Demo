@@ -184,7 +184,7 @@ main img {
   height: 18px;
   width: 100%;
 }
-header .icon-cart{
+header .icon-cart, .icon-search{
   display: flex;
   align-items: center;
 }
