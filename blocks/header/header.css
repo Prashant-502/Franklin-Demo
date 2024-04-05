@@ -181,10 +181,10 @@ header nav .nav-sections ul > li {
 header nav .nav-sections ul > li > ul {
   margin-top: 0;
 }
-
+/* 
 header nav .nav-sections ul > li > ul > li {
   font-weight: 500;
-}
+} */
 
 @media (width >= 900px) {
   header nav .nav-sections {
@@ -233,7 +233,7 @@ header nav .nav-sections ul > li > ul > li {
   header nav .nav-sections .default-content-wrapper > ul > li {
     flex: 0 1 auto;
     position: relative;
-    font-weight: 500;
+    font-weight: 700;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul {
@@ -288,9 +288,6 @@ header nav .nav-sections ul > li > ul > li {
   header nav {
     padding: 0 15px;
     margin: auto;
-  }
-  header nav .nav-sections ul > li {
-    font-weight: 700;
   }
   header nav .nav-sections {
     flex: unset;
