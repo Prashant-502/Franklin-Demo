@@ -250,6 +250,9 @@ header nav .nav-sections ul > li > ul > li {
     display: none;
     position: relative;
   }
+  header nav .nav-sections{
+    margin-right: 7px;
+  }
 
   header nav .nav-sections .default-content-wrapper > ul > li[aria-expanded="true"] > ul {
     display: block;
