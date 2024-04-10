@@ -217,7 +217,8 @@ main .section.highlight {
   border-radius: 0;
   background-color: #f7444e;
   border: 1px solid #f7444e;
-  padding: 12px 45px
+  padding: 12px 45px;
+  font-weight:700;
 }
 .carousel-wrapper a.button:any-link:hover{
   background-color: transparent;
