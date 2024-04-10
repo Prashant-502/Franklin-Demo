@@ -21,6 +21,9 @@
   .banner p {
     margin: 0;
   }
+  .carousel .carousel-slide .carousel-slide-content p{
+    font-size: 16px;
+  }
   .banner {
     max-height: 620px;
     overflow: hidden;
