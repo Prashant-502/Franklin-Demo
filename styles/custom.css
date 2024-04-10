@@ -31,6 +31,7 @@
   .carousel .carousel-slide .carousel-slide-content p{
     font-size: 16px;
     color: #0c0c0c;
+    margin-top: 20px;
   }
   .banner {
     max-height: 620px;
