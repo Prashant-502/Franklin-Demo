@@ -1,5 +1,5 @@
 .carousel .carousel-slides-container {
-    position: relative;
+    /* position: relative; */
 }
 
 .carousel .carousel-slides,
@@ -192,6 +192,6 @@
         color: #f7444e;
     }
     .carousel .carousel-slide{
-        justify-content: space-around;
+        justify-content: center;
     }
 }
