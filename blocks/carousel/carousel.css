@@ -66,6 +66,9 @@
     justify-content: center;
     gap: 0.5rem;
   }
+  .carousel .carousel-navigation-buttons{
+    display: none;
+  }
   
   .carousel .carousel-slide-indicator button {
     width: 1rem;
