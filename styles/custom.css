@@ -12,6 +12,7 @@
     font-size: 72px;
     font-family: serif;
     margin: 0;
+    line-height: 0.9;
   }
   .carousel .carousel-slide .carousel-slide-content h2:first-child{
     color: #f7444e;
