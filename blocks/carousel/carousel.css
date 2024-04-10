@@ -168,7 +168,13 @@
       --slide-content-width: 50%;
       margin: 2.5rem 5rem;
     }
+    .carousel .carousel-slide .carousel-slide-content {
+        /* custom */
+        --slide-content-width: 32%;
+        margin: 2.5rem 5rem;
+      }
     .carousel .carousel-slide .carousel-slide-content p{
+        /* custom */
         font-size: 16px;
     }
   
