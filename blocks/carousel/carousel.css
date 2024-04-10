@@ -72,6 +72,7 @@
   .carousel .carousel-slide-indicators {
     justify-content: start;
     bottom: 10%;
+    left: 6%;
     position: absolute;
   }
   .carousel .carousel.block{
@@ -85,11 +86,23 @@
     border-radius: 1rem;
     background-color: rgba(0 0 0 / 25%);
   }
+  .carousel .carousel-slide-indicator button {
+    background-color: #ffffff;
+    width: 12px;
+    height: 12px;
+  }
   
   .carousel .carousel-slide-indicator button:disabled,
   .carousel .carousel-slide-indicator button:hover,
   .carousel .carousel-slide-indicator button:focus-visible {
     background-color: rgba(0 0 0 / 80%);
+  }
+  .carousel .carousel-slide-indicator button:disabled,
+  .carousel .carousel-slide-indicator button:hover,
+  .carousel .carousel-slide-indicator button:focus-visible {
+    width: 20px;
+    height: 20px;
+    background-color: #f7444e;
   }
   
   .carousel .carousel-slide-indicator span,
