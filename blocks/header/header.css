@@ -262,6 +262,7 @@ header nav .nav-sections ul > li > ul > li {
     padding: 1em;
     background-color: var(--light-color);
     white-space: initial;
+    z-index: 1;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul::before {
