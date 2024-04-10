@@ -1,6 +1,6 @@
 @media (width >= 600px) {
   main .banner {
-    padding:82px 0 0;
+    padding:0;
     position: relative;
   }
   .banner .carousel-wrapper{
