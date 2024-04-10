@@ -3,7 +3,7 @@
     padding:0;
     position: relative;
   }
-  .banner .carousel-wrapper{
+  /* .banner .carousel-wrapper{
     position: absolute;
     top: 10px;
     left: 100px;
@@ -11,8 +11,8 @@
   .carousel .carousel-slide .carousel-slide-content h2{
     font-size: 72px;
     font-family: serif;
-  }
-}
+  }*/
+} 
 @media (width >= 900px) {
   .banner > div {
     max-width: unset;
@@ -24,7 +24,7 @@
     max-height: 620px;
     overflow: hidden;
   }
-  .carousel .carousel-slide .carousel-slide-content {
+  /* .carousel .carousel-slide .carousel-slide-content {
     background: transparent;
   }
   .section.cards-container{
@@ -34,5 +34,5 @@
   .section.cards-container #why-shop-with-us{
     text-align: center;
     font-family: serif;
-  }
+  } */
 }
