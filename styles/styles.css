@@ -219,3 +219,7 @@ main .section.highlight {
   border: 1px solid #f7444e;
   padding: 12px 45px
 }
+.carousel-wrapper a.button:any-link:hover{
+  background-color: transparent;
+  color: #f7444e;
+}
