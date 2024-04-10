@@ -41,10 +41,22 @@
   .section.cards-container{
     max-width: 1170px;
     margin: auto;
+    padding: 70px 0;
+  }
+  .section.cards-container h2{
+    margin: 0;
   }
 
   .section.cards-container #why-shop-with-us{
     text-align: center;
     font-family: serif;
-  } 
+  }
+  .section.cards-container #why-shop-with-us::after{
+    content: "";
+    display: block;
+    width: 70px;
+    height: 5px;
+    background: #f7444e;
+    margin: 10px auto 10px;
+  }
 }
