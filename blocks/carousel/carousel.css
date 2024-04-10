@@ -69,6 +69,14 @@
     justify-content: center;
     gap: 0.5rem;
   }
+  .carousel .carousel-slide-indicators {
+    justify-content: start;
+    bottom: 10%;
+    position: absolute;
+  }
+  .carousel .carousel.block{
+    position: relative;
+  }
   
   .carousel .carousel-slide-indicator button {
     width: 1rem;
