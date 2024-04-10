@@ -13,6 +13,12 @@
     font-family: serif;
     margin: 0;
   }
+  .carousel .carousel-slide .carousel-slide-content h2:first-child{
+    color: #f7444e;
+  }
+  .carousel .carousel-slide .carousel-slide-content h2:nth-child(2){
+    color: #002c3e;
+  }
 } 
 @media (width >= 900px) {
   .banner > div {
@@ -23,6 +29,7 @@
   }
   .carousel .carousel-slide .carousel-slide-content p{
     font-size: 16px;
+    color: #0c0c0c;
   }
   .banner {
     max-height: 620px;
