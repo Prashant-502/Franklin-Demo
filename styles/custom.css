@@ -6,12 +6,12 @@
    .banner .carousel-wrapper{
     position: absolute;
     top: 10px;
-    /* left: 100px; */
+    left: 100px;
   }
-  /*.carousel .carousel-slide .carousel-slide-content h2{
+  .carousel .carousel-slide .carousel-slide-content h2{
     font-size: 72px;
     font-family: serif;
-  }*/
+  }
 } 
 @media (width >= 900px) {
   .banner > div {
