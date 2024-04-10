@@ -53,7 +53,7 @@
 
 .carousel .carousel-slide .carousel-slide-content {
     z-index: 1;
-    padding: 1rem;
+    padding: 1rem 10px;
     margin: 1.5rem 3rem;
     color: white;
     background-color: rgba(0 0 0 / 50%);
