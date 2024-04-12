@@ -112,4 +112,8 @@
   .section.new-arrivals .library-metadata > :last-child p{
     margin: 0;
   }
+  .section.new-arrivals .library-metadata > :last-child p:first-child{
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
 }
