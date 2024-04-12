@@ -97,6 +97,10 @@
     line-height: 1.5;
     margin-bottom: 30px;
     width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15px;
   }
   .section.new-arrivals .library-metadata .button{
     display: inline-block;
@@ -115,5 +119,8 @@
   .section.new-arrivals .library-metadata > :last-child p:first-child{
     margin-top: 20px;
     margin-bottom: 30px;
+  }
+  .section.new-arrivals .library-metadata a{
+    margin-bottom: 45px;
   }
 }
