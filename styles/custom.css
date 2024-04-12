@@ -84,4 +84,18 @@
     object-position: left;
     padding-left: 16px;
   }
+  .section.new-arrivals .library-metadata #newarrivals{
+    font-family: serif;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #002c3e;
+    margin-bottom: 10px;
+  }
+  .section.new-arrivals .library-metadata:last-child:last-child{
+    margin-top: 20px;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    width: 500px;
+  }
 }
