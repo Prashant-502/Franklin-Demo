@@ -91,11 +91,25 @@
     color: #002c3e;
     margin-bottom: 10px;
   }
-  .section.new-arrivals .library-metadata > :last-child:last-child{
+  .section.new-arrivals .library-metadata > :last-child{
     margin-top: 20px;
     font-size: 1rem;
     line-height: 1.5;
     margin-bottom: 30px;
     width: 500px;
+  }
+  .section.new-arrivals .library-metadata .button{
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #f7444e;
+    font-weight: 400;
+    border: 1px solid #f7444e;
+    color: #ffffff;
+    border-radius: 0;
+    transition: all 0.3s;
+    margin: 0;
+  }
+  .section.new-arrivals .library-metadata > :last-child p{
+    margin: 0;
   }
 }
