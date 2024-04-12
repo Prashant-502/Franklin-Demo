@@ -66,4 +66,7 @@
     margin: auto;
     padding: 0 15px;
   }
+  .section.new-arrivals .default-content-wrapper p{
+    margin: 0;
+  }
 }
