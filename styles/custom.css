@@ -50,6 +50,7 @@
   .section.cards-container #why-shop-with-us{
     text-align: center;
     font-family: serif;
+    font-size: 3.5 rem;
   }
   .section.cards-container #why-shop-with-us::after{
     content: "";
@@ -58,5 +59,11 @@
     height: 5px;
     background: #f7444e;
     margin: 10px auto 10px;
+  }
+  .section.cards-container .cards-card-body{}
+  .section.new-arrivals{
+    max-width: 1170px;
+    margin: auto;
+    padding: 0 15px;
   }
 }
