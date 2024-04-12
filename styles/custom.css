@@ -75,7 +75,7 @@
   .section.new-arrivals .default-content-wrapper p{
     margin: 0;
   }
-  /* .section.new-arrivals .default-content-wrapper,.section.new-arrivals .library-metadata-wrapper{
+  .section.new-arrivals .library-metadata > div{
     width: 50%;
-  } */
+  }
 }
