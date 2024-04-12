@@ -65,8 +65,12 @@
     max-width: 1170px;
     margin: auto;
     padding: 0 15px;
+    display: flex;
   }
   .section.new-arrivals .default-content-wrapper p{
     margin: 0;
+  }
+  .section.new-arrivals .default-content-wrapper,.section.new-arrivals .library-metadata-wrapper{
+    width: 50%;
   }
 }
