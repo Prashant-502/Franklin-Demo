@@ -60,11 +60,15 @@
     background: #f7444e;
     margin: 10px auto 10px;
   }
-  .section.cards-container .cards-card-body{}
   .section.new-arrivals{
+    background-color: #d4ced0;
+  }
+  .section.new-arrivals .library-metadata-wrapper{
     max-width: 1170px;
     margin: auto;
     padding: 0 15px;
+  }
+  .section.new-arrivals .library-metadata.block{
     display: flex;
   }
   .section.new-arrivals .default-content-wrapper p{
