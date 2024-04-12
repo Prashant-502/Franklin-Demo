@@ -78,4 +78,10 @@
   .section.new-arrivals .library-metadata > div{
     width: 50%;
   }
+  .section.new-arrivals .library-metadata img{
+    height: 498px;
+    object-fit: cover;
+    object-position: left;
+    padding-left: 16px;
+  }
 }
