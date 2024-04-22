@@ -6,12 +6,13 @@
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 30px;
 }
-
+.why-shop-with-us .cards > ul > li {
+  background-color: #002c3e;
+}
 .cards > ul > li {
   text-align: center;
     margin-top: 45px;
     border: 1px solid var(--dark-color);
-    background-color: #002c3e;
     padding: 45px 40px;
     border-radius: 5px;
     color: #ffffff;
