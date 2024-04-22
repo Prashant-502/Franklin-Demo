@@ -121,4 +121,8 @@
     margin-top: 20px;
     margin-bottom: 30px;
   }
+  .section.new-arrivals .library-metadata{
+    max-height: 498px;
+    overflow: hidden;
+  }
 }
