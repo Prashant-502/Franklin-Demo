@@ -52,7 +52,7 @@
     font-family: serif;
     font-size: 3.5 rem;
   }
-  .section.cards-container #why-shop-with-us::after{
+  .section.cards-container #why-shop-with-us::after,.section.our-products .default-content-wrapper::after{
     content: "";
     display: block;
     width: 70px;
@@ -136,5 +136,8 @@
   }
   .section.our-products #products{
     color: #f7444e;
+  }
+  .section.our-products #our{
+    margin-right: 13px;
   }
 }
