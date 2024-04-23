@@ -163,7 +163,7 @@
   .section.our-products .cards{
     margin-top: 45px;
   }
-  .section.our-products .cards-card-body{
+  .section.our-products .cards-card-body:first-child{
     margin: 10px 0;
     justify-content: space-between;
     display: flex;
