@@ -125,4 +125,18 @@
     max-height: 498px;
     overflow: hidden;
   }
+  .section.our-products .default-content-wrapper{
+    display: flex;
+    justify-content: center;
+    font-family: serif;
+    font-size: 3.5 rem;
+  }
+  .section.our-products .h2{
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family: serif;
+  }
+  .section.our-products #products{
+    color: #f7444e;
+  }
 }
