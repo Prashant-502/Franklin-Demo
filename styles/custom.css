@@ -168,7 +168,7 @@
     justify-content: space-between;
     display: flex;
   }
-  .section.our-products .cards-card-body h4{
+  .section.our-products .cards-card-body h5{
     margin: 0;
     font-size: 18px;
     font-family: montserrat;
