@@ -149,6 +149,9 @@
     position: absolute;
     bottom: -24px;
   }
+  .section.our-products .cards > ul{
+    grid-gap: unset;
+  }
   .section.our-products .cards > ul > li{
     margin: 0 15px;
     margin-top: 25px;
