@@ -181,7 +181,7 @@
     color: #002c3e;
     font-size: 1rem;
   }
-  .section.our-products .cards-card-image > ul > li img{
+  .section.our-products .cards-card-image img{
     aspect-ratio: 5 / 3;
     object-fit: contain;
     margin: 25px 0;
