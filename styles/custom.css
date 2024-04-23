@@ -125,10 +125,14 @@
     max-height: 498px;
     overflow: hidden;
   }
+  .section.our-products{
+    padding: 68px 0;
+  }
   .section.our-products .default-content-wrapper{
     display: flex;
     justify-content: center;
     position: relative;
+    margin-bottom: 20px;
   }
   .section.our-products h2{
     font-size: 3.5rem;
@@ -143,6 +147,6 @@
   }
   .section.our-products .default-content-wrapper::after {
     position: absolute;
-    bottom: -22px;
+    bottom: -24px;
   }
 }
