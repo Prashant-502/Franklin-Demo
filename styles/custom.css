@@ -172,11 +172,11 @@
     margin: 0;
     font-size: 18px;
     font-family: montserrat;
-  }
-  .section.our-products .cards-card-body:first-child{
     font-weight: 700;
   }
-  .section.our-products .cards-card-body:last-child{
+  .section.our-products .cards-card-body h6{
     font-weight: 600;
+    margin: 0;
+    font-size: 1rem;
   }
 }
