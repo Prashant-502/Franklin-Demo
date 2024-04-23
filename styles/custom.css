@@ -173,10 +173,17 @@
     font-size: 18px;
     font-family: montserrat;
     font-weight: 700;
+    color: #0c0c0c;
   }
   .section.our-products .cards-card-body h6{
     font-weight: 600;
     margin: 0;
+    color: #002c3e;
     font-size: 1rem;
+  }
+  .section.our-products .cards-card-image > ul > li img{
+    aspect-ratio: 5 / 3;
+    object-fit: contain;
+    margin: 25px 0;
   }
 }
