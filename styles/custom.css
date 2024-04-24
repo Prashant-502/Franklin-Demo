@@ -226,8 +226,9 @@
     background-color: #f7444e;
     border: 1px solid #f7444e;
   }
-  .section.our-products .cards-card-body > a:hover{
+  .section.our-products .cards-card-body a:hover, .section.our-products .cards-card-body:nth-of-type(3) :first-child a:hpver{
     background-color: transparent;
     color: #000000;
   }
+  
 }
