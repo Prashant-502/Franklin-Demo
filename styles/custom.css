@@ -194,22 +194,22 @@
     flex-direction: column;
     left: 0;
     width: 100%;
-    background: antiquewhite;
+    background: rgba(255, 255, 255, 0.6);
     height: 100%;
     justify-content: center;
     align-items: center;
-    /* opacity: 0;
+    opacity: 0;
     visibility: hidden;
     -webkit-transition: all .2s;
     transition: all .2s;
     -webkit-transform: translateY(100%);
-    transform: translateY(100%); */
+    transform: translateY(100%);
   }
-  /* .section.our-products .cards > ul > li:hover .cards-card-body:nth-of-type(3){
+  .section.our-products .cards > ul > li:hover .cards-card-body:nth-of-type(3){
     opacity: 1;
     visibility: visible;
     transform: translateY(0);
-  } */
+  }
   .section.our-products .cards-card-body .button-container{
     margin: 0;
   }
@@ -225,5 +225,9 @@
   .section.our-products .cards-card-body:nth-of-type(3) :first-child a{
     background-color: #f7444e;
     border: 1px solid #f7444e;
+  }
+  .section.our-products .cards-card-body a :hover{
+    background-color: transparent;
+    color: #000000;
   }
 }
