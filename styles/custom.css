@@ -186,7 +186,7 @@
     object-fit: contain;
     margin: 25px 0;
   }
-  .section.our-products .cards-card-body{
+  .section.our-products .cards-card-body:nth-of-type(2){
     display: block;
   }
 }
