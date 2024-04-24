@@ -160,6 +160,7 @@
     box-shadow: 5px 5px 5px -5px rgba(0,0,0,.2);
     border: solid #fff 10px;
     background-color: #f7f8f9;
+    overflow: hidden;
   }
   .section.our-products .cards{
     margin-top: 45px;
