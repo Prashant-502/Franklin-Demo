@@ -210,10 +210,10 @@
     visibility: visible;
     transform: translateY(0);
   } */
-  .section.our-products .cards > ul > li > .button-container{
+  .section.our-products .cards-card-body .button-container{
     margin: 0;
   }
-  .section.our-products .cards > ul > li > a{
+  .section.our-products .cards-card-body a{
     margin: 5px 0;
     color: #ffffff;
   }
