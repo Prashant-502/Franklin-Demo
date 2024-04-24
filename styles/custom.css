@@ -234,4 +234,7 @@
     background-color: transparent;
     color: #f7444e;
   }
+  .section.our-products .cards > ul > li:hover .cards-card-image img{
+    transform: scale(1.1);
+  }
 }
