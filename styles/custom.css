@@ -186,7 +186,7 @@
     object-fit: contain;
     margin: 25px 0;
   }
-  .section.our-products .cards-wrapper > ul > li:last-child {
+  .section.our-products .cards-wrapper ul li:last-child {
     display: block;
   }
 }
